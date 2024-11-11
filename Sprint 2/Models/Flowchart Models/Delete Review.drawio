@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T09:04:38.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rH0k_yDFNLR9pIFJBouw" version="22.0.6" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="880" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3z_3POOQwJ5IzKJF5SnH-217" target="3z_3POOQwJ5IzKJF5SnH-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-217" value="Delete Review" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="337" y="109" width="149" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="452" y="259" as="sourcePoint" />
+            <mxPoint x="550" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-219" value="Invalid user&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="239" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3z_3POOQwJ5IzKJF5SnH-221" target="3z_3POOQwJ5IzKJF5SnH-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-221" value="is &lt;br style=&quot;font-size: 13px;&quot;&gt;user &lt;br&gt;valid?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="372" y="219" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-222" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="239" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-223" value="Review Deleted" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="371" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3z_3POOQwJ5IzKJF5SnH-224" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="309" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
