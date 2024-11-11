@@ -1,0 +1,29 @@
+User Stories Table				// Basic table in Powerpoint
+
+	Estimated Efforts , Priority, Estimate time			
+
+	Description, Acceptance Criteria and Dependencies
+
+
+StoryBoard
+	For narrating a story using some graphics	
+
+
+
+WireFrames					// https://mockflow.com/	
+
+Download feature of data			// Additional Functionality
+
+API endpoints page				// https://editor.swagger.io/
+
+Jira						
+
+Planning and Communication Classification	// Basic Table in PowerPoint
+
+
+Design of Components				// Basic Boxes in PowerPoint
+
+DataBase Schema design				// https://dbdiagram.io/d
+	
+Basic Code Structure				
+	templates, static, main, test		// Screenshots
